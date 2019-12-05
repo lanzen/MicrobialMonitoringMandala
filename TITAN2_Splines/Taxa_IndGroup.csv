@@ -1,0 +1,989 @@
+"","AMBI","PI","PI5yAvg","piMetals","piHC","piOM","Redox"
+"Bacteria (superkingdom)",0,4,5,4,5,5,5
+"FCB group",0,4,4,4,5,4,4
+"Proteobacteria (superphylum)",0,0,0,0,0,0,0
+"Terrabacteria",0,4,3,0,5,5,4
+"DTB120",0,1,1,0,1,3,0
+"PAUC34f",2,1,1,1,0,0,1
+"SBR1093",2,0,0,0,0,2,0
+"WS2",5,5,5,4,5,4,0
+"AC1",5,4,0,4,5,5,5
+"FCPU426",0,3,3,3,0,4,4
+"TACK",0,0,0,0,0,0,0
+"Marine Hydrothermal Vent Group(MHVG)",0,4,4,4,5,5,4
+"Bacteroidetes",5,5,5,4,4,5,3
+"Marinimicrobia (SAR406 clade)",5,4,4,4,4,5,5
+"Caldithrix phylum incertae sedis",0,5,0,5,0,0,0
+"Ca. Latescibacteria (WS3)",0,4,4,4,4,5,5
+"Cloacimonetes",5,5,3,5,4,5,5
+"Ca. Zixibacteria (RBG-1)",0,4,4,4,5,5,5
+"LCP-89",3,4,4,4,5,5,5
+"Proteobacteria",1,0,0,0,1,1,2
+"Chloroflexi",5,4,4,4,5,5,4
+"WS1",5,4,5,4,5,5,5
+"Planctomycetes",0,4,4,4,5,0,5
+"Ca. Omnitrophica (OP3)",0,4,5,4,5,5,0
+"WA-aaa01f12",0,5,3,0,0,5,5
+"Acidobacteria",3,0,0,0,0,1,0
+"Ca. Acetothermia (OP1)",5,5,5,5,5,5,5
+"Ca. Modulibacteria (KSB3)",0,5,5,5,5,4,3
+"Ca. Tectomicrobia",0,2,2,2,1,3,1
+"Ca. Hydrogenedentes (NKB19)",3,5,4,5,5,4,0
+"Ca. Atribacteria",0,5,5,5,5,5,4
+"Ca. Saccharibacteria (TM7)",0,0,0,0,0,2,0
+"Ca. Parcubacteria",0,4,4,4,5,4,4
+"CPR2",5,4,4,4,4,5,5
+"Ca. Microgenomates (OP11)",0,0,0,0,0,0,0
+"Ca. Gracilibacteria",0,0,3,0,0,3,0
+"Ca. Peregrinibacteria",3,4,4,4,0,5,4
+"Ca. Absconditabacteria (SR1)",5,3,3,0,0,5,3
+"Poribacteria",0,4,5,4,5,5,5
+"Ca. Aminicenantes (OP8)",5,4,4,4,5,5,5
+"Ca. Dependentiae (TM6)",0,0,2,0,0,0,0
+"NC10",4,5,4,0,0,5,0
+"SPAM",5,0,3,0,0,4,0
+"BRC1",3,4,4,4,0,5,3
+"Marine Benthic Group E",2,2,2,3,1,3,1
+"Ca. Bathyarchaeota",0,4,4,0,0,5,5
+"Group C3",0,4,5,4,5,5,4
+"Ca. Woesearchaeota",0,3,3,0,0,5,0
+"Ca. Parvarchaeota",5,4,3,0,4,5,5
+"Ca. Lokiarchaeota",0,4,0,0,0,5,4
+"Sphingobacteriia",5,3,4,3,4,4,0
+"Cytophagia",0,0,3,0,0,0,0
+"Bacteroidia",0,0,0,0,0,4,0
+"Saprospiria",0,2,2,2,1,3,3
+"Chitinophagia",0,1,2,1,1,1,2
+"Bacteroidetes VC2.1 Bac22",3,4,4,3,4,5,5
+"SM1A07",0,0,0,0,0,4,0
+"SB-5",3,4,3,0,0,5,5
+"Bacteroidetes BD2-2",5,5,4,5,4,5,5
+"WCHB1-32",5,0,0,0,0,5,0
+"Bacteroidetes vadinHA17",5,0,3,3,0,5,3
+"Ika33",4,3,4,0,4,4,5
+"BD2-11 terrestrial group",2,1,2,1,1,3,1
+"PAUC43f marine benthic group",2,1,2,1,0,2,1
+"S0134 terrestrial group",3,2,2,2,1,2,1
+"MD2902-B12",0,4,5,4,5,5,5
+"AKAU4049",2,2,2,1,1,3,1
+"Fibrobacteria",0,3,4,0,4,4,5
+"Chitinivibrionia",4,0,0,0,0,5,5
+"LK-44f",0,0,3,4,0,0,3
+"Betaproteobacteria",5,0,3,0,0,3,0
+"Alphaproteobacteria",1,2,2,1,1,1,1
+"Gammaproteobacteria",2,1,1,1,0,2,1
+"Deltaproteobacteria",0,0,0,0,0,0,0
+"Milano-WF1B-44",0,5,4,0,5,0,3
+"AEGEAN-245",2,0,1,0,0,1,0
+"JTB23",2,1,2,1,1,1,1
+"Ca. Allobeggiatoa",0,0,0,0,0,4,3
+"pItb-vmat-80",0,3,3,3,4,5,4
+"MACA-EFT26",0,2,2,2,1,1,1
+"Skagenf62",0,0,0,0,1,1,0
+"Clostridia",5,3,3,0,0,4,3
+"Mollicutes",4,0,3,0,0,5,3
+"Oxyphotobacteria",0,1,1,2,1,2,2
+"ML635J-21",3,0,0,3,0,5,3
+"OPB41",0,4,4,4,5,5,5
+"MB-A2-108",0,0,0,0,0,0,1
+"Dehalococcoidia (subdiv. 6)",0,4,4,4,5,5,5
+"Chloroflexi Subdivision 2",0,0,0,0,0,4,0
+"SBR2076",5,4,5,4,0,4,4
+"Chloroflexi Subdivision 5 (SAR202)",2,2,1,1,1,3,1
+"JG30-KF-CM66",0,0,2,0,1,2,1
+"Chloroflexi Subdivision 8 (TK10)",0,3,0,2,1,0,1
+"Ardenticatenia",1,2,2,1,1,1,1
+"S085",0,2,2,2,1,2,1
+"Chloroflexi Subdivision 13",4,5,5,4,5,5,5
+"SJA-15",5,4,3,5,4,5,5
+"MSB-5B2",0,5,5,4,5,0,0
+"SJA-68",3,5,5,4,5,5,5
+"Spirochaetia",5,5,4,5,4,5,5
+"LD1-PA32",5,4,5,4,5,5,5
+"vadinHA49",2,0,0,0,5,0,0
+"Phycisphaerae",0,0,0,0,0,5,0
+"Pla3 lineage",2,1,1,1,1,2,1
+"OM190",1,1,1,1,1,2,1
+"Pla4 lineage",0,0,0,0,0,0,0
+"BD7-11",2,1,1,1,0,2,1
+"028H05-P-BN-P5",2,1,2,1,1,1,2
+"Opitutae",0,1,1,1,1,3,2
+"Ca. Methylacidiphilum",0,2,2,1,1,0,0
+"OPB35 soil group",4,0,0,0,0,4,0
+"LD1-PB3",5,5,3,5,4,5,5
+"WCHB1-41",5,4,3,5,4,4,5
+"Campylobacteria",0,0,0,0,0,0,3
+"Subgroup 6",0,0,0,0,1,0,1
+"Acidobacteria group 2",4,0,3,0,0,5,0
+"d142",5,5,4,5,5,4,5
+"Acidobacteria group 21",2,2,1,1,1,3,1
+"Acidobacteria group 18",0,4,5,4,5,5,5
+"Acidobacteria group 9",2,1,2,1,1,2,1
+"Acidobacteria group 17",0,0,0,0,0,0,0
+"AT-s3-28",1,1,1,1,1,2,1
+"Acidobacteria group 5",0,2,2,1,1,1,1
+"Acidobacteria group 13",4,0,0,0,0,0,0
+"Acidobacteria group 15",0,0,0,0,1,0,0
+"Acidobacteria group 11",4,2,0,2,1,0,1
+"MD2898-B26",0,0,0,0,0,0,0
+"MD2896-B214",2,0,0,0,0,0,0
+"Belgica2005-10-ZG-3",0,4,3,5,4,0,0
+"Elusimicrobia (class)",0,4,5,4,5,5,5
+"Candidatus Peribacteria",0,1,1,0,0,0,0
+"Halanaerobiales class incertae sedis",5,3,3,3,4,5,5
+"Thermoplasmata",0,0,0,0,0,0,0
+"Pacearchaeota",0,5,5,5,5,5,0
+"Deep Sea Euryarchaeotic Group(DSEG)",3,0,0,0,0,0,0
+"Sphingobacteriales",3,0,0,0,0,5,0
+"Cytophagales",2,1,1,1,1,2,2
+"Bacteroidales",5,3,4,0,0,4,5
+"Bacteroidia Incertae Sedis",3,3,0,0,4,5,4
+"Flavobacteriales",0,2,0,2,2,5,3
+"Saprospirales",1,2,2,1,1,1,1
+"Chitinophagales",0,1,1,2,1,1,2
+"Gemmatimonadales",2,2,2,2,1,2,1
+"Rhodothermales",2,1,1,1,1,2,1
+"Chlorobiales",4,0,4,0,0,4,0
+"Fibrobacterales",5,3,3,3,0,4,5
+"possible order 07",5,4,3,4,4,5,5
+"Ignavibacteriales",2,1,2,1,1,1,1
+"Burkholderiales",5,0,0,0,2,3,0
+"SC-I-84",5,0,3,0,0,5,0
+"TRA3-20",0,2,0,2,1,0,1
+"B1-7BS",4,0,3,0,0,5,0
+"Rhizobiales",0,0,0,0,1,0,1
+"Rickettsiales",2,0,0,0,0,0,0
+"Sphingomonadales",5,0,0,0,1,0,2
+"Rhodospirillales",1,2,2,2,1,1,1
+"SAR11 clade",1,0,0,1,0,0,0
+"S26-47",0,0,0,0,0,0,0
+"Thiotrichales",1,1,1,1,0,2,0
+"Xanthomonadales",2,2,2,1,1,3,1
+"Oceanospirillales",1,1,1,1,0,2,0
+"Chromatiales",0,2,2,1,1,0,2
+"Cellvibrionales",1,0,1,0,1,0,0
+"Methylococcales",0,0,0,0,0,0,0
+"E01-9C-26 marine group",2,1,1,1,1,2,2
+"HTA4",1,1,1,1,1,2,1
+"KI89A clade",2,1,1,1,1,3,1
+"Sva0071",0,4,4,5,5,0,4
+"BD7-8 marine group",1,1,1,1,1,2,2
+"X35",0,0,2,1,0,2,1
+"HOC36",1,1,1,1,1,2,2
+"1013-28-CG33",0,3,0,0,1,2,1
+"EC3",1,1,2,1,1,1,1
+"Run-SP154",5,0,0,0,0,5,5
+"PYR10d3",0,5,3,5,0,5,4
+"CS-B046",5,4,4,4,4,5,3
+"SS1-B-09-64",3,2,2,2,1,3,3
+"CK-1C2-67",2,1,1,1,0,1,0
+"195up",5,0,2,0,1,0,0
+"OXIC-003",1,0,0,0,0,0,0
+"Bdellovibrionales",0,0,1,0,1,2,0
+"Myxococcales",0,0,1,0,0,2,0
+"Desulfuromonadales",4,3,3,0,0,5,0
+"Sva0485",0,4,4,5,5,5,4
+"Desulfobacterales",3,5,5,5,0,4,3
+"Desulfarculales",0,0,0,0,0,0,0
+"Bradymonadales",0,0,0,0,0,0,0
+"Oligoflexales",1,1,1,1,1,0,0
+"NB1-j",2,1,1,1,1,2,1
+"SAR324 clade(Marine group B)",2,0,1,0,0,2,1
+"43F-1404R",5,0,0,0,0,3,0
+"10bav-F6",0,4,5,4,5,5,5
+"FW113",4,5,5,4,5,5,5
+"5m83",0,1,1,1,1,3,1
+"Clostridiales",5,5,4,5,4,4,5
+"D8A-2",0,0,0,0,0,5,3
+"Bacillales",1,1,2,2,1,2,1
+"Mollicutes RF9",5,3,3,0,4,5,5
+"NB1-n",4,3,4,3,4,4,5
+"Synechococcales",0,0,0,0,0,0,0
+"Nostocales",5,0,0,0,0,0,0
+"Pleurocapsales",1,1,2,1,1,2,1
+"Gastranaerophilales",5,0,0,0,0,0,0
+"PeM15",5,4,4,4,4,5,4
+"Gaiellales",0,0,0,0,0,3,1
+"Acidimicrobiales",1,1,1,1,1,1,1
+"Nitriliruptorales",1,1,1,1,1,2,1
+"vadinBA26",0,5,4,4,5,5,5
+"GIF9",5,4,5,4,5,5,5
+"GIF3",0,5,5,4,5,5,5
+"MSBL5",0,4,5,4,5,5,5
+"FW22",0,4,5,4,5,5,5
+"Napoli-4B-65",4,4,4,4,5,5,5
+"FS117-23B-02",0,5,0,0,5,5,5
+"Anaerolineales",5,5,4,4,0,0,0
+"Chloroflexales",5,0,0,0,0,3,0
+"Ardenticatenales",1,1,2,1,1,2,1
+"JG30-KF-CM45",0,0,0,0,0,0,0
+"AKYG1722",1,2,2,1,1,2,1
+"KD4-96",0,0,0,0,0,0,1
+"Gitt-GS-136",0,0,0,0,0,0,0
+"Thermoflexales",0,5,5,4,5,5,4
+"KD3-62",4,5,4,4,5,5,5
+"Fimbriimonadales",0,2,2,2,1,1,1
+"Spirochaetales",5,4,5,4,5,5,5
+"Leptospiriales",3,5,0,0,0,0,0
+"PL-11B10",5,3,3,0,0,5,3
+"Planctomycetales",1,2,2,1,1,2,1
+"MSBL9",0,5,5,4,5,5,5
+"Phycisphaerales",1,1,1,1,1,2,1
+"SHA-43",0,5,5,4,5,5,3
+"mle1-8",0,5,0,4,5,0,0
+"CCM11a",0,0,0,0,5,0,0
+"KCLunmb-38-53",0,4,3,4,5,4,4
+"MSB-3A7 sediment group",3,4,3,3,4,4,4
+"Pla1 lineage",3,5,5,4,5,5,5
+"ODP1230B30.09",5,5,5,4,5,0,0
+"C86",0,1,1,1,1,3,1
+"Opitutae vadinHA64",0,0,0,1,0,0,0
+"Puniceicoccales",1,1,1,1,1,2,0
+"Verrucomicrobiales",0,0,0,0,0,4,0
+"P.palmC41",0,3,3,0,4,5,4
+"SS1-B-02-17",0,4,0,0,4,4,5
+"Victivallales",1,0,1,0,0,1,0
+"R76-B128",0,4,3,3,4,5,4
+"MSBL3",3,3,3,3,4,4,4
+"Campylobacterales",0,4,4,0,4,5,4
+"Desulfurellales",2,0,0,0,0,0,0
+"Synergistales",0,4,3,0,3,0,0
+"Blastocatellales",0,2,2,1,1,1,1
+"Acidobacteria group 23",5,4,4,5,4,5,5
+"Acidobacteria group 10",1,0,2,1,1,2,1
+"Acanthopleuribacterales (Acidobacteria group 8)",1,0,1,0,0,0,0
+"Acidobacteria group 22",2,1,1,1,1,3,1
+"Acidobacteria group 26",2,0,3,0,0,0,0
+"Fusobacteriales",4,3,4,0,0,4,0
+"4-29",0,4,4,5,5,5,5
+"Lineage IIb",2,0,0,0,0,0,0
+"Halanaerobiales",4,3,4,3,4,5,5
+"Nitrospirales",0,0,0,0,0,0,0
+"AMOS1A-4113-D04",5,4,4,4,4,5,5
+"Marine Benthic Group D and DHVEG-1",5,5,5,4,5,5,5
+"CCA47",0,5,4,5,4,5,4
+"Ca. Nitrosopumilales",1,1,1,1,1,1,1
+"Nitrososphaerales",0,0,0,0,0,0,0
+"NS11-12 marine group",0,0,0,2,1,0,0
+"Lentimicrobiaceae",5,5,4,5,4,5,5
+"PHOS-HE51",0,0,0,0,1,4,0
+"env.OPS 17",5,0,0,0,1,0,1
+"KD3-93",4,0,0,2,1,0,0
+"ST-12K33",5,4,4,4,4,5,5
+"AKYH767",4,0,0,0,0,4,0
+"LiUU-11-161",3,0,0,0,2,3,0
+"Flammeovirgaceae",0,0,0,0,4,5,3
+"Cytophagaceae",0,2,0,2,1,0,1
+"Cyclobacteriaceae",0,0,0,0,0,0,4
+"Catalimonadaceae ",0,3,3,3,4,5,4
+"Porphyromonadaceae",5,0,0,0,0,4,0
+"Marinilabiaceae",4,5,5,4,5,4,3
+"Prolixibacteraceae",5,0,3,0,0,5,5
+"Rikenellaceae",3,0,0,0,2,4,0
+"Odoribacteraceae",0,5,4,0,4,4,5
+"Bacteroidales RF16 group",0,0,0,1,0,0,1
+"M2PB4-65 termite group",5,0,0,0,0,0,0
+"Draconibacteriaceae",5,3,3,0,5,5,4
+"Flavobacteriaceae",0,2,2,2,1,0,0
+"Cryomorphaceae",0,0,0,3,0,0,0
+"NS9 marine group",3,0,0,0,0,0,0
+"Crocinitomicaceae",0,0,0,0,0,3,0
+"NS7 marine group",1,1,1,1,1,2,2
+"Haliscomenobacteraceae",0,3,0,3,3,3,3
+"Lweinellacea",1,2,2,2,1,2,1
+"Saprospiraceae",0,2,3,2,2,0,3
+"Chitinophagaceae",5,0,0,0,1,4,0
+"BIgi5",0,0,3,0,0,5,0
+"Gemmatimonadaceae",0,2,0,2,1,0,1
+"Longimicrobiaceae",3,1,2,1,1,1,1
+"Rubricoccaceae",0,2,2,1,1,2,1
+"SJA-28",3,0,0,0,1,3,0
+"OPB56",3,0,0,0,0,4,3
+"09D2Z46",0,4,3,3,5,5,4
+"FD035",5,4,4,5,4,5,5
+"Fibrobacteraceae",5,0,0,0,0,4,0
+"possible family 01",3,5,3,4,0,5,4
+"Caldithrix family incertae sedis",0,5,4,5,4,0,5
+"BSV26",5,0,0,0,1,0,0
+"PHOS-HE36",0,3,3,1,2,3,2
+"IheB3-7",3,3,3,4,5,4,3
+"Comamonadaceae",5,0,0,0,2,0,3
+"Burkholderiaceae",5,0,3,0,0,3,0
+"Oxalobacteraceae",4,0,3,0,0,4,0
+"Alcaligenaceae",3,0,3,4,1,0,0
+"Rhodocyclaceae",5,0,0,0,1,4,0
+"Nitrosomonadaceae",4,0,0,0,1,0,0
+"Gallionellaceae",5,0,0,0,1,0,0
+"Hydrogenophilaceae",0,3,2,0,1,3,1
+"Neisseriaceae",5,3,3,0,0,4,0
+"Methylophilaceae",3,0,3,0,0,3,0
+"Phyllobacteriaceae",0,2,3,3,1,1,1
+"Bradyrhizobiaceae",4,4,4,0,0,3,0
+"Rhizobiaceae",4,3,4,0,0,3,0
+"Hyphomicrobiaceae",3,2,2,2,1,2,2
+"Xanthobacteraceae",0,0,0,0,0,0,1
+"Rhodobiaceae",2,2,2,1,1,2,1
+"A0839",5,0,0,0,0,3,0
+"OCS116 clade",1,0,1,0,0,1,1
+"MNG7",4,0,0,5,0,3,0
+"KF-JG30-B3",0,2,2,2,1,2,1
+"JG34-KF-361",0,2,2,1,1,0,1
+"DUNssu044",0,0,0,0,0,0,1
+"JG35-K1-AG5",5,0,0,0,1,5,0
+"B142",0,0,0,0,0,4,3
+"Rickettsiaceae",1,1,1,1,1,0,0
+"[Caedibacter] caryophilus group",0,0,0,0,0,0,0
+"TK34",2,2,2,1,2,3,1
+"SHWN-night2",2,1,2,1,0,2,0
+"EF100-94H03",0,0,0,0,1,0,0
+"T9d",0,0,0,0,0,4,3
+"Rhodobacteraceae",0,2,3,3,1,3,1
+"Sphingomonadaceae",3,0,0,0,1,0,3
+"Erythrobacteraceae",0,2,2,3,1,1,1
+"Rhodospirillaceae",2,1,1,1,1,3,1
+"Acetobacteraceae",5,0,0,0,0,5,0
+"DA111",5,5,4,0,0,5,0
+"Rhodospirillales Incertae Sedis",1,1,2,1,1,2,1
+"AT-s3-44",2,0,1,0,0,3,1
+"JG37-AG-20",4,0,0,0,0,5,0
+"MSB-1E8",2,1,2,1,1,2,1
+"MND8",4,0,0,0,0,3,0
+"Caulobacteraceae",0,0,0,2,1,0,1
+"Hyphomonadaceae",0,0,0,0,0,0,0
+"Parvularculaceae",1,0,1,0,1,1,1
+"Moraxellaceae",4,0,0,0,0,4,0
+"Pseudoalteromonadaceae",2,2,1,1,0,0,0
+"Alteromonadaceae",2,2,2,1,1,0,0
+"Colwelliaceae",2,0,1,0,0,3,0
+"Thiotrichaceae",0,3,3,4,0,0,0
+"Piscirickettsiaceae",0,5,5,5,3,5,4
+"Fangia - Caedibacter clade",0,0,0,0,4,0,4
+"Xanthomonadales Incertae Sedis",3,0,0,0,0,3,3
+"Xanthomonadaceae",3,0,0,0,1,0,0
+"Woeseiaceae",2,1,2,1,1,1,1
+"Arenicellaceae",0,1,2,1,1,0,0
+"Alcanivoracaceae",2,0,0,0,4,0,5
+"Oceanospirillaceae",2,1,1,1,1,1,2
+"SAR86 clade",0,0,0,0,0,0,0
+"Hahellaceae",0,1,1,1,0,0,0
+"OM182 clade",1,1,1,1,1,2,2
+"SS1-B-06-26",0,3,3,3,3,5,4
+"CrystalBog021C3",1,1,1,1,1,2,2
+"MBAE14",1,1,1,1,1,2,2
+"Vibrionaceae",3,0,0,0,0,0,0
+"Chromatiaceae",5,0,0,0,4,5,5
+"Ectothiorhodospiraceae",3,0,0,0,0,0,0
+"Granulosicoccaceae",1,1,1,1,1,1,0
+"Aeromonadaceae",5,0,0,0,0,4,3
+"Legionellaceae",2,1,2,0,0,2,1
+"Coxiellaceae",0,2,2,0,1,1,1
+"Halieaceae",3,4,0,0,5,4,4
+"Cellvibrionaceae",2,0,1,1,0,0,0
+"Porticoccaceae",0,0,0,0,0,4,0
+"Spongiibacteraceae",3,0,0,0,0,0,0
+"BD2-7",1,1,1,1,0,2,0
+"Salinisphaeraceae",1,1,1,1,1,1,1
+"Methylococcaceae",0,0,0,0,1,0,0
+"Marine Methylotrophic Group 2",2,0,0,0,0,0,0
+"Marine Methylotrophic Group 1",0,4,4,4,5,5,4
+"pItb-vmat-59",0,5,4,4,5,0,4
+"CABC2E06",4,0,0,0,0,0,0
+"pLW-20",0,0,0,0,0,0,0
+"KCM-B-112",0,5,5,4,5,0,5
+"Acidiferrobacteraceae",2,2,2,1,1,1,1
+"Sedimenticola family incertae sedis",0,0,0,0,1,2,0
+"Thiolapillus family incertae sedis",0,0,3,0,1,2,2
+"Thiohalophilus family incertae sedis",1,0,0,0,0,0,0
+"Desulfovibrionaceae",5,4,3,4,4,5,5
+"Bacteriovoracaceae",0,4,4,0,5,5,4
+"Bdellovibrionaceae",3,1,2,1,1,1,1
+"Sandaracinaceae",1,1,1,1,1,2,1
+"Polyangiaceae",4,0,0,0,0,0,0
+"Nannocystaceae",3,0,2,0,0,0,0
+"P3OB-42",0,0,0,0,0,0,0
+"Haliangiaceae",1,0,1,0,1,2,1
+"VHS-B3-70",3,4,4,4,5,4,4
+"Phaselicystidaceae",5,0,0,0,0,4,0
+"mle1-27",3,0,0,0,0,3,0
+"bacteriap25",0,5,0,0,4,5,5
+"VHS-B4-70",5,4,4,5,4,5,5
+"Blfdi19",0,2,3,3,1,0,3
+"BIrii41",0,5,5,0,0,4,0
+"UASB-TL25",0,4,4,5,4,5,5
+"Eel-36e1D6",0,0,0,0,0,0,0
+"PS-B29",0,5,4,5,4,5,5
+"MidBa8",5,5,4,5,4,5,5
+"Desulfuromonadaceae",0,4,4,3,4,4,5
+"Sva1033",4,5,4,5,4,4,5
+"MA-28-I98C",5,0,0,1,0,0,0
+"Desulfobacteraceae",5,5,3,5,4,5,5
+"Desulfobulbaceae",3,5,5,5,4,5,5
+"Desulfarculaceae",0,5,5,4,5,5,5
+"Syntrophaceae",4,5,5,4,5,5,5
+"Syntrophobacteraceae",2,2,2,2,2,3,2
+"Oligoflexaceae",1,0,1,0,0,0,0
+"0319-6G20",4,5,0,0,0,4,0
+"Ca. Tenderia family incertae sedis",2,1,1,1,0,0,0
+"Ruminococcaceae",5,5,3,5,4,5,5
+"Lachnospiraceae",5,3,4,3,4,4,5
+"Clostridiales vadinBB60 group",4,4,4,5,4,5,4
+"Christensenellaceae",5,4,4,4,4,5,5
+"Peptostreptococcaceae",0,0,0,0,1,1,1
+"Family XI (Clostridiales)",4,0,3,0,0,5,0
+"Peptococcaceae",5,5,4,5,4,5,5
+"Syntrophomonadaceae",0,5,5,5,5,0,0
+"Defluviitaleaceae",4,3,4,3,4,4,5
+"Family XII (Clostridiales)",0,0,4,0,0,0,5
+"P. palm C-A 51",5,3,3,4,3,5,5
+"Clostridiales Incertae Sedis",0,0,0,0,0,0,0
+"TSAC18",0,0,0,0,0,0,0
+"GoM-GC232-4463-Bac1",0,5,4,3,4,4,5
+"livecontrolB21",0,3,3,3,4,4,3
+"Streptococcaceae",5,3,3,3,3,0,0
+"Carnobacteriaceae",0,1,2,1,1,1,1
+"Acidaminococcaceae",5,0,0,0,0,5,0
+"Acholeplasmataceae",0,3,4,3,4,5,4
+"Synechococcaceae",0,0,1,0,0,0,0
+"Pseudoanabaenacea",1,1,1,1,1,2,1
+"Cyanobacteriaceae",1,1,1,1,1,2,2
+"Micrococcaceae",0,0,0,0,3,3,1
+"Microbacteriaceae",4,4,4,5,4,5,4
+"Intrasporangiaceae",4,5,3,5,3,3,0
+"Beutenbergiaceae",5,5,3,5,4,5,0
+"Sporichthyaceae",3,2,0,0,1,2,1
+"Propionibacteriaceae",3,5,4,5,3,0,4
+"Nocardioidaceae",2,1,1,1,1,2,1
+"Elev-16S-1332",1,1,2,1,1,1,1
+"0319-6M6",0,0,0,0,0,0,0
+"TM146",0,0,4,0,0,0,0
+"Acidimicrobiaceae",1,1,1,1,1,2,2
+"Sva0996 marine group",1,1,1,1,1,1,1
+"OM1 clade",2,1,2,1,1,2,1
+"Coriobacteriaceae",5,4,4,4,5,4,5
+"Euzebyaceae",1,1,1,1,1,2,1
+"Nitriliruptoraceae",2,1,2,1,1,1,1
+"Anaerolineaceae",5,4,4,4,5,4,5
+"Roseiflexaceae",0,0,0,0,0,0,0
+"Caldilineaceae",0,0,0,0,1,1,1
+"Trueperaceae",1,1,2,1,1,1,1
+"Fimbriimonadaceae",4,0,0,0,0,4,0
+"Spirochaetaceae",0,4,4,4,4,5,5
+"Leptospiraceae",5,5,5,5,5,4,5
+"Planctomycetaceae",0,1,1,1,1,2,1
+"Phycisphaeraceae",2,1,1,1,1,3,1
+"AKAU3564 sediment group",0,5,5,4,5,5,5
+"Puniceicoccaceae",0,0,0,0,0,4,3
+"Opitutaceae",5,0,0,2,2,4,0
+"Verrucomicrobiaceae",3,2,2,2,1,4,0
+"Rubritalecea",0,0,2,0,0,0,0
+"DEV007",1,1,1,2,1,2,2
+"DA101 soil group",4,0,3,0,0,5,0
+"MVP-94",5,4,3,5,4,5,5
+"Lentisphaeraceae",1,0,1,1,0,0,0
+"BD2-3",3,3,3,0,0,5,3
+"Arctic95B-14",2,2,2,1,1,3,1
+"Arcobacteraceae",0,0,0,0,0,0,0
+"Thiovulaceae",5,4,3,3,5,4,3
+"Sulfurovaceae",5,4,3,4,4,5,5
+"H16",0,2,2,1,1,0,1
+"G55",0,2,2,2,1,3,1
+"Synergistaceae",5,5,5,5,5,5,3
+"Blastocatellaceae",0,2,0,2,1,0,1
+"Acidobacteriaceae",5,3,3,0,0,5,0
+"Holophagaceae",5,0,0,0,0,5,0
+"Sva0725",2,1,1,1,1,2,1
+"ABS-19",0,2,0,0,1,2,1
+"NS72",1,1,2,1,1,1,1
+"CA002",2,0,2,1,1,1,1
+"TK85",1,1,2,1,1,1,1
+"Acanthopleuribacteraceae",0,0,0,0,0,0,0
+"PAUC26f",3,0,2,0,1,2,1
+"GOUTB8",0,1,2,1,1,0,0
+"Nitrospinaceae",3,0,2,1,1,1,1
+"ODP1230B8.23",0,0,0,0,0,0,0
+"Nitrospiraceae",2,0,0,0,0,3,0
+"FW13",0,3,0,0,1,3,1
+"ANME-1b",0,5,5,5,5,5,5
+"Ca. Nitrosopumilus family incertae sedis",2,1,2,1,1,1,1
+"Pedobacter",3,0,0,0,0,0,0
+"Mucilaginibacter",5,0,0,0,0,4,0
+"Solitalea",3,0,0,2,1,0,0
+"Roseivirga",0,0,0,0,0,0,0
+"Marinoscillum",3,2,2,2,1,0,3
+"Candidatus Amoebophilus",1,1,1,1,1,2,3
+"Fulvivirga",3,0,0,0,0,0,0
+"Reichenbachiella",1,0,1,0,0,2,0
+"Marivirga",0,1,1,2,1,2,0
+"Fabibacter",1,0,1,1,0,0,0
+"Ekhidna",2,0,2,0,1,1,1
+"Spirosoma",4,0,0,0,0,4,0
+"Ohtaekwangia",4,0,0,0,0,4,0
+"Dyadobacter",4,0,0,0,0,4,0
+"Flectobacillus",4,0,0,0,0,0,3
+"Leadbetterella",3,0,0,0,2,0,3
+"Cytophaga",5,0,0,0,1,0,0
+"Chryseolinea",4,0,0,0,0,3,0
+"Emticicia",5,0,0,0,0,4,0
+"Arcicella",3,0,0,0,0,0,0
+"Hymenobacter",5,0,0,0,0,4,0
+"Pontibacter",2,1,2,1,1,1,1
+"Algoriphagus",5,0,0,0,1,5,3
+"Paludibacter",5,0,0,0,2,4,0
+"Proteiniphilum",0,0,0,0,0,0,0
+"Microbacter",4,0,0,0,0,4,5
+"Petrimonas",0,0,0,0,0,4,0
+"Macellibacteroides",4,0,3,0,0,5,3
+"Bacteroides",5,0,0,0,0,0,0
+"Prevotella 9",5,0,3,0,0,0,0
+"Marinifilum",0,5,4,0,5,0,5
+"Saccharicrinis",0,3,4,0,4,5,4
+"[Cytophaga] xylanolytica group",5,0,0,0,0,4,0
+"Carboxylicivirga",4,5,4,4,4,5,5
+"Prolixibacter",5,0,3,0,0,4,3
+"BSV13",4,0,0,0,0,5,0
+"Alistipes",0,0,0,0,0,0,0
+"Rikenellaceae RC9 gut group",0,3,0,1,0,0,1
+"vadinBC27 wastewater-sludge group",5,0,0,0,0,5,0
+"Blvii28 wastewater-sludge group",3,0,0,0,2,5,0
+"Acetobacteroides",5,0,0,0,0,0,0
+"Draconibacterium",4,3,3,4,4,5,5
+"Chryseobacterium",5,0,3,0,0,4,0
+"Flavobacterium",5,0,0,0,2,0,0
+"Tenacibaculum",1,2,2,1,0,0,0
+"Lutibacter",4,0,4,0,0,4,5
+"Gillisia",0,1,2,1,1,1,1
+"Psychroflexus",0,2,2,2,0,0,0
+"Maribacter",3,0,3,0,1,1,0
+"Ulvibacter",3,2,2,1,1,1,2
+"NS5 marine group",2,0,0,0,0,0,0
+"Winogradskyella",1,2,2,2,2,0,0
+"Arenibacter",0,2,2,0,1,0,1
+"Eudoraea",3,0,3,0,0,1,0
+"Gramella",1,1,1,1,1,1,1
+"Aureisphaera",2,1,1,1,1,1,0
+"Aquibacter",3,1,2,1,1,1,2
+"Maritimimonas",0,0,0,0,0,2,1
+"Cloacibacterium",5,0,0,0,0,0,0
+"Pseudofulvibacter",2,0,1,0,0,0,0
+"Actibacter",3,5,4,0,3,4,4
+"Gaetbulibacter",0,2,3,2,1,5,0
+"Robiginitalea",3,2,3,2,0,0,3
+"Dokdonia",1,0,0,0,1,2,2
+"Mariniflexile",0,0,0,0,0,0,2
+"Zeaxanthinibacter",2,1,2,1,1,1,1
+"Sediminicola",0,2,2,1,1,1,1
+"Lutimonas",0,5,3,5,3,4,3
+"Gilvibacter",1,2,2,2,1,1,2
+"Ornithobacterium",0,2,2,1,1,0,2
+"Hoppeia",0,2,2,2,1,0,3
+"Jejudonia",1,2,2,1,1,2,1
+"Muriicola",2,1,2,1,1,1,2
+"Aureitalea",1,1,1,1,1,2,2
+"Schleiferia",2,1,1,1,1,1,2
+"Fluviicola",0,0,2,2,1,0,0
+"Crocinitomix",3,2,2,2,0,0,3
+"Salinirepens",0,2,3,2,2,0,0
+"Phaeodactylibacter",0,2,2,1,1,2,1
+"Haliscomenobacter",3,0,0,0,0,4,0
+"Portibacter",1,2,1,1,1,1,2
+"Lewinella",1,2,2,2,1,1,1
+"Aureispira",1,2,2,1,1,1,3
+"Flavihumibacter",3,0,0,3,0,5,0
+"Sediminibacterium",5,2,3,2,2,0,0
+"Ferruginibacter",5,0,0,0,1,3,0
+"Terrimonas",4,0,0,0,1,3,0
+"Chitinophaga",3,0,0,2,1,4,0
+"Filimonas",3,0,0,0,3,4,0
+"Niastella",5,0,0,0,0,0,0
+"Dinghuibacter",3,0,0,0,0,4,3
+"Balneola",0,1,1,2,1,0,3
+"Gracilimonas",1,2,2,2,1,0,0
+"Gemmatimonas",4,0,0,0,0,5,0
+"Fibrobacter",0,0,0,0,0,0,0
+"Caldithrix",0,3,0,0,0,0,4
+"Ca. Latescibacter",3,4,4,4,5,5,5
+"Ignavibacterium",5,0,0,0,1,0,0
+"Sphaerotilus",5,3,4,0,0,5,5
+"Acidovorax",4,2,0,3,2,0,3
+"Hydrogenophaga",0,0,4,0,0,0,0
+"Comamonas",4,0,0,2,1,0,0
+"Limnohabitans",5,3,0,3,0,0,3
+"Polaromonas",4,0,0,0,0,0,0
+"Leptothrix",5,0,0,0,0,0,1
+"Pelomonas",0,0,0,0,0,0,0
+"Inhella",5,0,0,0,0,5,0
+"Ralstonia",0,0,0,0,0,0,0
+"Limnobacter",0,0,0,0,1,2,1
+"Lautropia",4,3,4,3,0,3,0
+"Massilia",5,0,0,0,1,0,1
+"Azoarcus",0,2,0,0,1,0,1
+"Dechloromonas",4,0,0,0,0,4,0
+"Methyloversatilis",4,3,4,0,3,4,3
+"Thauera",5,0,0,0,0,4,0
+"Sulfuritalea",5,0,0,0,1,3,0
+"Candidatus Accumulibacter",5,0,0,0,0,4,0
+"Uliginosibacterium",5,0,0,2,1,5,0
+"Zoogloea",5,0,0,0,0,4,0
+"Denitratisoma",4,0,3,0,0,3,0
+"Propionivibrio",5,0,0,0,0,5,0
+"Georgfuchsia",4,0,0,0,0,4,0
+"Ferribacterium",5,0,0,0,1,0,0
+"Nitrosomonas",1,0,1,0,1,1,1
+"Thiobacillus",4,0,3,0,0,0,0
+"Ferritrophicum",0,0,0,0,1,0,0
+"Leeia",5,0,0,0,0,0,0
+"Uruburuella",4,3,3,0,0,5,3
+"Deefgea",5,2,0,2,1,0,0
+"Formivibrio",5,0,0,0,2,3,0
+"Methylotenera",0,3,3,3,5,5,3
+"Chitinivorax",0,0,0,0,0,0,0
+"Mesorhizobium",0,0,0,0,0,0,0
+"Pseudahrensia",1,0,2,0,0,1,0
+"Oricola",0,1,2,0,1,2,2
+"Ahrensia",1,1,1,1,1,1,2
+"Cohaesibacter",2,2,2,1,1,3,1
+"Bradyrhizobium",4,4,4,0,0,5,0
+"Bosea",5,5,4,0,0,0,0
+"Rhizobium",5,0,0,0,0,5,0
+"Hyphomicrobium",0,0,0,0,0,0,1
+"Devosia",0,0,0,0,0,0,0
+"Rhodomicrobium",0,0,2,1,1,1,1
+"Rhodoplanes",5,0,0,0,0,0,0
+"Pedomicrobium",0,0,0,0,1,0,1
+"Filomicrobium",2,2,2,1,1,3,0
+"Pseudolabrys",5,0,0,0,0,0,0
+"Variibacter",0,0,0,0,0,0,0
+"Afifella",2,1,2,1,1,2,0
+"Anderseniella",2,1,2,1,1,1,1
+"Methyloceanibacter",2,0,0,1,0,3,0
+"Rhizomicrobium",4,0,0,0,0,5,0
+"Bauldia",0,2,2,2,1,0,1
+"Nordella",4,0,0,0,0,5,0
+"Rickettsia",0,0,0,0,0,0,0
+"Paracoccus",5,3,3,3,0,4,3
+"Sulfitobacter",1,2,2,2,1,1,1
+"Loktanella",0,0,0,0,0,0,0
+"Labrenzia",0,2,3,2,1,0,0
+"Rhodobacter",3,0,3,3,0,3,0
+"Pseudorhodobacter",0,0,0,0,0,0,0
+"Aestuariivita",0,5,5,4,0,2,0
+"Oceaniovalibus",0,2,3,1,1,0,0
+"Defluviimonas",3,0,0,4,1,1,2
+"Roseovarius",1,2,2,2,1,1,1
+"Rubellimicrobium",5,5,4,5,0,5,0
+"Sedimentitalea",0,4,4,4,5,4,4
+"Halocynthiibacter",2,0,0,0,3,0,0
+"Albimonas",0,0,0,0,0,4,0
+"Albirhodobacter",4,0,0,0,0,0,0
+"Ketogulonicigenium",0,3,2,0,1,1,2
+"Roseobacter",1,2,2,1,1,1,1
+"Palleronia",1,1,2,1,1,1,1
+"Dinoroseobacter",3,0,0,0,5,0,4
+"Sphingomonas",3,0,4,0,0,4,0
+"Novosphingobium",5,0,0,0,1,5,0
+"Sphingobium",4,0,0,0,0,4,0
+"Sphingopyxis",3,0,0,0,2,5,0
+"Zymomonas",5,0,3,0,0,3,0
+"Sphingorhabdus",0,1,2,0,1,1,1
+"Polymorphobacter",4,3,3,0,0,5,0
+"Sphingomicrobium",2,1,2,1,1,2,1
+"Parasphingopyxis",2,1,1,1,1,1,1
+"Rhizorhapis",5,0,0,0,0,4,0
+"Erythrobacter",2,2,2,2,1,0,1
+"Altererythrobacter",0,1,0,3,1,1,1
+"Tistlia",3,1,2,1,1,1,1
+"Terasakiella",0,0,0,0,3,5,3
+"Magnetospira",2,0,2,0,0,1,1
+"Pelagibius",2,1,1,1,1,2,1
+"Magnetovibrio",0,5,5,5,0,0,3
+"Defluviicoccus",0,0,0,0,1,2,0
+"Roseomonas",5,0,3,0,0,5,3
+"Reyranella",4,0,4,0,0,4,3
+"Candidatus Alysiosphaera",0,2,2,2,0,0,0
+"Phenylobacterium",5,0,3,0,0,3,0
+"Brevundimonas",5,0,0,0,1,0,1
+"Caulobacter",4,0,0,0,0,4,0
+"Hyphomonas",0,0,0,0,0,0,0
+"Woodsholea",4,0,0,0,0,4,0
+"Hirschia",4,0,5,0,0,4,0
+"Sneathiella",3,5,3,5,5,4,0
+"Emcibacter",0,5,4,5,5,5,4
+"Pseudomonas",5,0,0,0,0,4,0
+"Acinetobacter",5,0,3,0,0,0,0
+"Psychrobacter",0,0,0,0,0,0,0
+"Alkanindiges",3,0,0,0,2,0,0
+"Perlucidibaca",5,0,0,0,0,4,0
+"[Agitococcus] lubricus group",4,0,0,0,2,0,0
+"Moritella",0,0,0,0,4,0,4
+"Paramoritella",1,0,2,1,0,0,0
+"Pseudoalteromonas",3,0,1,1,0,0,2
+"Glaciecola",0,2,1,0,0,0,0
+"Paraglaciecola",3,2,2,2,1,3,1
+"Marinobacter",3,1,2,1,1,1,1
+"Shewanella",3,2,2,1,1,1,0
+"Psychrobium",2,1,1,0,0,0,1
+"Thalassotalea",0,2,2,2,0,0,0
+"Colwellia",2,0,0,0,0,0,0
+"Psychromonas",0,0,0,0,0,0,4
+"Thiothrix",0,3,3,0,2,3,0
+"Leucothrix",0,0,0,0,0,0,0
+"Beggiatoa",0,0,0,0,0,0,0
+"Cocleimonas",3,0,2,0,0,1,0
+"Thiomargarita",0,3,3,0,3,5,3
+"Thiomicrospira",0,5,5,0,5,4,0
+"endosymbionts",0,5,5,5,5,5,4
+"Acidibacter",5,0,4,0,0,4,0
+"Candidatus Competibacter",5,4,3,0,0,3,3
+"Steroidobacter",3,0,0,0,0,4,0
+"Stenotrophomonas",4,0,4,0,0,5,3
+"Pseudoxanthomonas",5,5,3,5,0,5,5
+"Aquimonas",0,2,2,1,1,0,3
+"Arenimonas",3,0,3,0,0,5,0
+"Luteibacter",0,0,0,0,0,0,0
+"Dokdonella",3,3,3,0,0,5,3
+"Polycyclovorans",0,2,0,2,1,1,0
+"Arenicella",1,1,1,1,1,2,2
+"Oleiphilus",0,0,0,0,0,4,3
+"Gynuella",2,0,0,0,0,0,0
+"Halomonas",5,0,0,0,2,5,0
+"Alcanivorax",0,5,3,5,4,4,4
+"Kangiella",2,0,0,0,0,0,0
+"Marinobacterium",2,0,1,0,1,0,0
+"Marinomonas",0,0,0,0,0,0,0
+"Thalassolituus",0,0,0,0,0,0,0
+"Pseudohongiella",2,0,2,0,0,1,0
+"Reinekea",0,0,0,1,0,0,0
+"Oceanospirillum",0,5,4,0,5,0,5
+"Neptunomonas",0,0,0,0,3,0,0
+"Oceanobacter",0,0,0,0,0,0,0
+"Oleispira",0,5,3,0,5,0,4
+"Corallomonas",2,1,1,1,1,0,2
+"Oceaniserpentilla",0,0,0,3,0,0,0
+"Motiliproteus",3,1,2,2,3,3,1
+"Endozoicomonas",0,3,3,0,4,0,0
+"Vibrio",1,0,0,0,3,4,4
+"Photobacterium",1,5,0,0,5,0,4
+"Thiohalocapsa",5,2,2,2,0,0,0
+"Rheinheimera",0,3,3,2,3,0,3
+"Thiocapsa",0,5,4,0,4,0,0
+"Lamprocystis",5,4,4,4,4,5,5
+"Thiohalobacter",2,0,2,0,1,1,2
+"Thiogranum",0,0,0,0,4,2,0
+"Thioalkalispira",0,0,0,0,5,0,0
+"Granulosicoccus",1,2,1,1,1,1,1
+"Aeromonas",5,0,0,0,3,0,0
+"Oceanisphaera",2,1,2,1,1,1,1
+"Legionella",0,0,0,0,0,0,0
+"Coxiella",2,0,2,0,0,0,0
+"Aquicella",0,2,2,2,1,0,1
+"Rickettsiella",0,0,0,0,0,0,0
+"Congregibacter",0,0,0,0,0,0,4
+"Halioglobus",0,0,0,0,0,5,3
+"Haliea",0,4,3,0,5,4,4
+"OM60(NOR5) clade",0,4,0,0,5,4,4
+"Parahaliea",0,4,3,4,3,5,3
+"Marimicrobium",5,0,0,0,0,0,0
+"Cellvibrio",3,0,0,2,2,4,0
+"Simiduia",3,3,3,2,3,0,0
+"Candidatus Endobugula",1,1,1,2,1,0,2
+"SAR92 clade",0,1,0,2,0,0,0
+"Porticoccus",0,5,4,0,5,4,3
+"C1-B045",3,5,4,5,4,5,5
+"Microbulbifer",2,1,2,1,0,2,1
+"Dasania",0,4,4,3,5,5,4
+"BD1-7 clade",2,1,2,1,1,1,1
+"Methylomonas",5,0,0,0,0,0,0
+"Methylobacter",5,0,0,0,0,0,0
+"Methylomarinum",2,0,0,0,1,1,1
+"Crenothrix",4,0,0,2,1,5,0
+"Sulfurifustis",0,0,0,0,0,2,0
+"Sedimenticola",0,0,0,0,0,0,0
+"Marinicella",1,0,1,0,0,2,0
+"Thiolapillus",0,4,0,0,4,0,5
+"Thiohalophilus",2,0,0,0,0,3,0
+"Thioprofundum",2,0,0,0,4,0,0
+"Desulfovibrio",5,4,4,4,4,5,5
+"Desulfomicrobium",5,3,0,0,0,5,3
+"Deferrisoma",0,0,0,0,0,0,4
+"Peredibacter",0,0,0,0,0,4,3
+"Halobacteriovorax",0,5,4,5,5,5,4
+"Bacteriovorax",5,0,0,0,2,0,0
+"Bdellovibrio",0,0,0,0,0,0,0
+"OM27 clade",0,1,1,1,1,2,2
+"Anaeromyxobacter",5,0,0,0,0,0,1
+"Sandaracinus",2,1,2,1,1,2,2
+"Sorangium",4,0,0,0,0,0,0
+"Polyangium",4,0,0,0,1,0,0
+"Aetherobacter",4,0,0,0,2,0,0
+"Enhygromyxa",0,0,0,0,1,0,0
+"Nannocystis",2,0,2,0,0,3,1
+"Pseudenhygromyxa",4,0,0,0,0,0,3
+"Haliangium",0,0,2,0,1,0,1
+"Phaselicystis",3,5,0,4,0,5,3
+"Geobacter",5,0,0,0,0,3,0
+"Geopsychrobacter",0,5,4,5,0,3,0
+"Geothermobacter",0,5,4,5,5,4,3
+"Desulfuromusa",0,5,5,5,5,3,0
+"Pelobacter",0,5,4,5,3,0,0
+"Desulfuromonas",0,0,3,3,0,3,0
+"Desulfobacter",5,5,4,5,4,4,4
+"Desulfosarcina",5,5,3,4,4,0,5
+"Desulfococcus",5,5,4,5,4,5,5
+"Desulfatitalea",0,5,4,5,5,5,4
+"Sva0081 sediment group",0,0,1,0,0,0,0
+"Desulforegula",0,0,0,0,0,4,0
+"Desulfatirhabdium",5,4,3,5,4,5,5
+"Desulfatiferula",3,3,3,5,0,5,3
+"SEEP-SRB1",0,4,0,0,5,4,3
+"Desulfobacterium",5,3,4,4,4,5,4
+"Desulfofaba",0,5,4,5,5,4,4
+"Desulfoconvexum",4,3,4,3,4,5,4
+"Desulfonema",5,4,4,0,4,4,5
+"Desulfobulbus",0,5,5,5,5,5,0
+"MSBL7",0,5,5,5,5,0,0
+"Desulfurivibrio",0,0,0,0,0,3,2
+"[Desulfobacterium] catecholicum group",4,0,0,0,0,3,0
+"Desulforhopalus",4,4,3,0,3,5,3
+"Desulfopila",0,5,4,5,5,4,4
+"SEEP-SRB4",5,4,4,4,5,4,4
+"Desulfocapsa",0,5,5,5,5,0,0
+"Desulfofustis",3,2,2,2,0,0,0
+"Desulfatiglans",0,4,4,4,5,5,5
+"Smithella",4,5,5,5,5,4,3
+"Desulfobacca",0,0,0,0,0,0,0
+"Syntrophus",4,0,0,0,0,3,0
+"Syntrophobacter",0,0,0,0,0,0,0
+"Pseudobacteriovorax",3,0,1,1,0,0,0
+"Mariprofundus",0,5,5,5,5,4,3
+"Ca. Tenderia",3,0,0,0,0,0,0
+"Ruminococcaceae UCG-002",5,5,3,5,4,4,5
+"Faecalibacterium",4,3,3,0,4,4,3
+"Ruminococcaceae UCG-005",0,0,0,0,0,0,3
+"Ruminococcus 2",4,3,4,3,3,0,0
+"Ercella",3,5,4,0,5,4,3
+"Christensenellaceae R-7 group",5,4,3,3,4,5,5
+"Clostridium sensu stricto",0,0,0,0,0,1,1
+"Sedimentibacter",0,0,0,0,0,5,0
+"[Eubacterium] brachy group",3,3,3,0,0,5,3
+"Anaerovorax",5,3,3,0,0,4,3
+"Syntrophomonas",0,4,4,0,0,4,0
+"Defluviitaleaceae UCG-011",4,5,4,4,4,4,5
+"Fusibacter",4,3,4,3,0,5,5
+"Acidaminobacter",5,0,0,0,0,5,0
+"Dethiosulfatibacter",0,5,4,0,4,4,5
+"Bacillus",3,2,2,1,1,2,1
+"Sporosarcina",2,1,2,1,1,1,1
+"Trichococcus",5,3,4,3,3,0,0
+"Atopostipes",0,0,0,0,1,1,1
+"Facklamia",0,0,0,0,0,0,0
+"Erysipelothrix",3,0,0,0,2,5,0
+"Turicibacter",3,0,0,0,1,1,1
+"Leptolyngbya",0,0,0,0,0,0,0
+"Calothrix",5,0,0,0,0,0,0
+"Rivularia",0,2,2,2,1,2,1
+"Cyanobacterium",1,1,1,1,1,2,1
+"Arthrospira",0,0,0,0,0,0,0
+"Microcoleus",0,0,0,0,0,0,0
+"Planktothricoides",0,0,2,2,0,4,3
+"Phormidium",5,0,0,0,0,0,0
+"Oscillatoria",0,2,2,2,0,0,0
+"Microbacterium",5,4,4,4,4,3,4
+"Leucobacter",5,4,4,4,4,5,5
+"Candidatus Aquiluna",0,0,0,0,0,0,0
+"Tetrasphaera",0,3,4,0,4,3,4
+"Demequina",0,5,5,4,5,5,4
+"Georgenia",5,5,3,5,4,5,5
+"Gordonia",3,3,3,0,0,4,3
+"Mycobacterium",5,5,4,4,5,4,4
+"Nakamurella",0,0,0,0,0,0,0
+"Fodinicola",3,5,4,5,0,0,0
+"Bifidobacterium",5,4,3,3,4,0,0
+"Nocardioides",0,0,0,0,1,2,1
+"Aeromicrobium",5,4,3,5,0,5,5
+"Streptomyces",0,2,0,0,1,2,1
+"Solirubrobacter",0,0,0,0,0,2,1
+"Gaiella",0,0,0,0,1,0,1
+"Ilumatobacter",1,2,2,1,1,1,1
+"CL500-29 marine group",5,0,0,0,1,5,0
+"Candidatus Microthrix",0,0,0,0,0,3,0
+"Iamia",5,3,3,3,0,3,0
+"Euzebya",2,1,1,1,1,2,1
+"Anaerolinea",5,0,0,0,0,3,0
+"Anaerolineaceae UCG-001",5,5,3,0,0,4,3
+"Pelolinea",3,4,4,4,5,5,5
+"Thermomarinilinea",5,4,4,4,4,5,3
+"Roseiflexus",5,0,4,0,0,0,0
+"Meiothermus",0,0,0,0,0,0,0
+"Truepera",2,1,1,1,1,1,1
+"Armatimonas",0,0,0,0,0,5,0
+"Spirochaeta",5,5,5,4,5,5,4
+"Treponema 2",5,0,0,0,1,4,0
+"Turneriella",0,2,0,1,0,0,0
+"Pir4 lineage",0,0,0,0,0,0,0
+"Rhodopirellula",1,1,1,1,1,2,2
+"Blastopirellula",1,1,1,1,1,1,2
+"Gemmata",4,0,0,0,1,5,0
+"Schlesneria",3,0,0,0,1,4,0
+"Planctomyces",0,2,2,2,1,0,2
+"Pirellula",0,2,2,2,1,3,2
+"Bythopirellula",1,2,2,1,1,2,1
+"Candidatus Scalindua",2,0,2,0,1,3,2
+"Urania-1B-19 marine sediment group",2,0,0,1,1,2,1
+"Pelagicoccus",2,1,2,2,0,3,1
+"Lentimonas",1,1,1,1,1,2,2
+"Opitutus",4,0,0,0,1,4,0
+"Alterococcus",0,2,2,1,2,0,1
+"Haloferula",3,0,0,1,1,5,0
+"Prosthecobacter",4,0,0,0,2,4,0
+"Luteolibacter",4,0,0,0,1,5,0
+"Roseibacillus",3,2,2,2,1,2,3
+"Persicirhabdus",3,0,0,2,0,0,0
+"Rubritalea",3,2,2,2,1,0,0
+"Chthoniobacter",4,0,0,0,1,4,0
+"Candidatus Xiphinematobacter",0,0,0,0,0,0,0
+"Lentisphaera",2,2,1,1,0,3,0
+"Arcobacter",5,0,3,0,0,4,4
+"Sulfurospirillum",0,0,4,0,0,4,0
+"Sulfurimonas",0,5,4,4,5,5,4
+"Sulfuricurvum",4,0,0,0,0,0,0
+"Sulfurovum",5,4,4,4,4,5,4
+"Thermovirga",0,5,5,5,5,4,4
+"Stenotrophobacter",4,0,0,0,1,0,0
+"11-24",4,0,0,0,1,0,0
+"Blastocatella",2,1,2,1,1,1,1
+"RB41",4,0,0,0,0,0,0
+"Candidatus Koribacter",4,0,4,0,0,5,5
+"Acanthopleuribacter",5,5,4,5,4,4,5
+"Thermotomaculum",5,5,3,5,4,5,5
+"Bryobacter",4,0,0,0,0,5,0
+"Paludibaculum",4,0,0,0,0,5,0
+"Ca. Solibacter",4,0,0,0,0,0,0
+"Propionigenium",0,5,3,0,0,5,4
+"Leptotrichia",5,0,3,0,0,4,0
+"Ca. Entotheonella",1,1,2,1,1,2,1
+"Nitrospina",2,0,1,0,0,2,1
+"Nitrospira (Nitrospiraceae)",2,2,2,2,1,3,1
+"Methanobrevibacter",0,5,5,4,5,5,5
+"Methanolinea",0,5,0,4,5,0,0
+"Methanogenium",0,5,5,5,5,0,0
+"ANME-3",0,4,5,4,5,5,5
+"Methanosaeta",0,5,5,4,5,5,0
+"Ca. Nitrosoarchaeum",0,2,2,1,1,0,0
+"Cenarchaeum",2,1,1,1,1,3,1
+"Ca. Nitrosopumilus",0,1,1,1,1,3,1
+"Marinoscillum luteum",0,1,1,0,0,2,0
+"Flexibacter litoralis DSM 6794",0,2,2,1,1,0,3
+"Flavobacterium cheniae",4,0,0,0,0,0,0
+"Tenacibaculum dicentrarchi",0,0,0,0,0,0,0
+"Maribacter chungangensis",3,2,2,0,1,1,1
+"Muriicola jejuensis",0,2,2,0,1,2,1
+"Tepidiphilus succinatimandens",0,0,0,0,0,0,0
+"Sulfurirhabdus autotrophica",0,0,0,0,0,0,0
+"Pseudoruegeria haliotis",0,5,0,0,5,3,3
+"Sphingomicrobium lutaoense",2,1,2,1,1,1,1
+"Thiothrix eikelboomii",0,4,4,5,5,0,0
+"Arenicella chitinivorans",1,2,2,2,1,0,0
+"Pseudenhygromyxa salsuginis",0,0,0,0,0,5,3
+"Desulfatiferula olefinivorans",5,4,4,4,4,5,3
+"Desulfatiferula berrensis",5,0,0,0,0,5,4
+"Desulforhopalus singaporensis",3,3,3,3,0,0,0

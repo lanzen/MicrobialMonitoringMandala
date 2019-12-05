@@ -1,0 +1,1 @@
+../../scripts/convertMetadataRCDB.py
