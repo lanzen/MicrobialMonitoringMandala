@@ -491,3 +491,35 @@ dev.off()
 
 
 
+# ---- Seasonality and Year effects -----
+
+## Limit
+mds$SiteYear = paste(mds$Station,mds$Year)
+
+summerSY = unique(mds$SiteYear[!is.na(mds$Season) & mds$Season=="Su" 
+                               & mds$Environment!="Port"
+                               & mds$Estuary!="00 SVB"])
+
+mdSC = droplevels(mds[mds$SiteYear %in% summerSY & mds$Nacid=="DNA",])
+
+row.names(mdSC)
+
+varsM = c(-15,-35,vars,-87)
+printANOVA(mdSC[,c("Season","Year")], mdSC[,varsM], .05)
+#ugAMBI lower in Su (p=.03)
+#WaterO2 higher in Wi (p=.01)
+
+taxaSC = taxa.ass.ra.f[row.names(mdSC),]
+printANOVA(mdSC[,c("Season","Year")], taxaSC, .001)
+# Flammeovirgaceae more abundant in Su 
+# Commamonadaceae and Nitrosomonadaceae,  Methylophilaceae much more ab. in Wi (all of the betaprot)
+# Chitinophagaceae and Gemmatimonadaceae more ab, in Wi
+
+otusSC = otus.s.ra.f.nr.dna[row.names(mdSC),]
+anosim(otusSC, grouping=mdSC$Season)
+# R=0.12, p=0.002
+
+anosim(otusSC, grouping=mdSC$Year)
+# R=-.03, p=1
+
+
